@@ -1,0 +1,16 @@
+ {
+  "manifest_version": 2,
+  "name": "SummarLight",
+  "version": "0.7.5",
+  "permissions": ["activeTab", "YOUR_GOOGLE_CLOUD_FUNCTION_URL"],
+  "description": "Highlights the most important parts of posts/stories/articles!",
+  "icons": {"16": "icon16.png",
+            "48": "icon48.png",
+            "128": "icon128.png" },
+  "browser_action": {
+   "default_icon": "tab-icon.png",
+   "default_title": "Highlight the important stuff",
+   "default_popup": "popup.html"
+  }
+}
+
