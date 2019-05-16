@@ -1,6 +1,6 @@
-# Summarlight
+# SummarLight
 
-The Summarlight Chrome Extension highlights the most important parts of posts/stories/articles. You can find the extension [here](https://chrome.google.com/webstore/detail/summarlight/ligjmagakdphdlenhhncfegpdbbendlg?hl=en-US&gl=US).
+The Summarlight Chrome Extension highlights the most important parts of posts/stories/articles. You can find the extension <a href="https://chrome.google.com/webstore/detail/summarlight/ligjmagakdphdlenhhncfegpdbbendlg?hl=en-US&gl=US" target="_blank">here</a>.
 
 <p align="center">
   <img src="https://github.com/btahir/summarlight/blob/master/preview.png" width="350" title="preview">
