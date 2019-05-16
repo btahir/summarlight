@@ -3,7 +3,7 @@
 The Summarlight Chrome Extension highlights the most important parts of posts/stories/articles. You can find the extension [here](https://chrome.google.com/webstore/detail/summarlight/ligjmagakdphdlenhhncfegpdbbendlg?hl=en-US&gl=US).
 
 <p align="center">
-  ![preview](https://github.com/btahir/summarlight/blob/master/preview.png)
+  <img src="https://github.com/btahir/summarlight/blob/master/preview.png" width="350" title="preview">
 </p>
 
 ## Project Summary
